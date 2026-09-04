@@ -565,7 +565,7 @@ http://localhost:8081
 Once the application is running:
 
 ```text
-http://localhost:8081/scalar
+http://localhost:8081/scalar.html
 ```
 
 Use the **Authorize** option in Scalar to provide your JWT:
