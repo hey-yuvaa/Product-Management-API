@@ -47,8 +47,8 @@ The application follows a clean **Controller → Service → Repository** archit
                  │ JwtAuthenticationFilter     │
                  │                             │
                  │ • Extract JWT               │
-                 │ • Validate Token             │
-                 │ • Authenticate Principal     │
+                 │ • Validate Token            │
+                 │ • Authenticate Principal    │
                  └──────────────┬──────────────┘
                                 │
                                 ▼
